@@ -13,4 +13,4 @@
 ### Material UI
 ## <img src="https://mata0406.github.io/resume/static/media/material.5b2d8a0a.png" width="200">
 ### React
-## <img src="https://hermes.digitalinnovation.one/articles/cover/f60b2c55-e681-42cb-95bc-e9b084da3867.png" width="200">
+### <img src="https://hermes.digitalinnovation.one/articles/cover/f60b2c55-e681-42cb-95bc-e9b084da3867.png" width="200">
