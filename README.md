@@ -27,4 +27,4 @@ Estou começando a estudar JavaScript (JS) para poder utilizar frameworks podero
 - Material UI
 <img src="https://mata0406.github.io/resume/static/media/material.5b2d8a0a.png" width="200">
 
-Além disso, possuo conhecimento em design de interface e edição de imagem, incluindo Figma e CorelDraw.
+Além disso, possuo conhecimento em design de interface e edição de imagem, incluindo Figma, CorelDraw, canva e um breve conhecimento em edição de vídeo com o Adobre Premiere.
