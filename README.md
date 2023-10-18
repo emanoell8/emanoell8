@@ -13,15 +13,18 @@ Hoje possuo conhecimento em várias tecnologias:
 - HTML5
 <img src="https://hermes.digitalinnovation.one/articles/cover/8c5a0561-c612-42ff-82ba-ce4abd71ccbb.jpg" width="200">
 
-Estou planejando começar a estudar JavaScript (JS) para poder utilizar frameworks poderosos, tais como:
+- React
+<img src="https://hermes.digitalinnovation.one/articles/cover/f60b2c55-e681-42cb-95bc-e9b084da3867.png" width="200">
+
+- JavaScript (js)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="200">
+
+Estou começando a estudar JavaScript (JS) para poder utilizar frameworks poderosos, tais como:
 
 - Next.js
 <img src="https://miro.medium.com/max/1400/1*Tpux5SNAgh8LY0cxbcSnCg.jpeg" width="200">
 
 - Material UI
 <img src="https://mata0406.github.io/resume/static/media/material.5b2d8a0a.png" width="200">
-
-- React
-<img src="https://hermes.digitalinnovation.one/articles/cover/f60b2c55-e681-42cb-95bc-e9b084da3867.png" width="200">
 
 Além disso, possuo conhecimento em design de interface e edição de imagem, incluindo Figma e CorelDraw.
